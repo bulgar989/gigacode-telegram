@@ -13,6 +13,8 @@
     "fs": "^0.0.1-security",
     "gigachat-node": "^2.1.1",
     "input": "^1.0.1",
+    "sqlite": "^5.1.1",
+    "sqlite3": "^5.1.7",
     "telegram": "^2.20.2"
   }
 }
